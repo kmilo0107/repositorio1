@@ -1,3 +1,4 @@
+/* genero un borde y un fondo  */
 .cuadro{
     background: lightskyblue;
     padding: auto;
@@ -8,13 +9,12 @@
     
 }
 .cuadro1{
-    background: beige;
+    background: cornflowerblue;
     border: 2px solid black;
     padding: 2px;
     text-align: center;
     margin: 13px 10px 10px;
-    
-    
+       
     
 }
 .cuadro2{
@@ -47,21 +47,99 @@
 }
 .box1{
     position: relative;
-    top: 40px;
-    left: 40px;
-    border: 2px solid green;
+    top: 2px;
+    left: 82px;
+    border: 2px solid black;
     height: 80px;
     width: 80px;
     text-align: center;
-    z-index: 1;
+    background-color: black;
+    color: white;
+    
     
 }
 .box2{
     position: relative;
-    border: 2px solid yellow;
+    border: 2px solid black;
     height: 80px;
     width: 80px;
     text-align: center;
-    background-color: yellowgreen;
+    background-color: black;
+    color: white;
     
+}
+.box3{
+    position: relative;
+    border: 2px solid black;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: black;
+    top: -84px;
+    left: 164px;
+    color: white;
+}
+.box4{
+    position: relative;
+    top: -250px;
+    left: 246px;
+    border: 2px solid black;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.box5{
+    position: relative;
+    top: -252px;
+    left: 328px;
+    border: 2px solid black;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.box6{
+    position: relative;
+    top: -418px;
+    left: 410px;
+    border: 2px solid black;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.box7{
+    position: relative;
+    top: -420px;
+    left: 492px;
+    border: 2px solid black;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.box8{
+    position: relative;
+    top: -586px;
+    left: 574px;
+    border: 2px solid black;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.box0{
+    background-color: beige;
+    position: relative;
+    height: 165px;
+    width: 660px;
+    border: solid black;
+    margin: 40px auto 10px;
+    z-index: 1;
 }
