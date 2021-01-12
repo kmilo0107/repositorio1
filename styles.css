@@ -1,0 +1,67 @@
+.cuadro{
+    background: lightskyblue;
+    padding: auto;
+    border: 3px solid blue;
+    margin: 10px;
+    width: auto;
+    height: 90px;
+    
+}
+.cuadro1{
+    background: beige;
+    border: 2px solid black;
+    padding: 2px;
+    text-align: center;
+    margin: 13px 10px 10px;
+    
+    
+    
+}
+.cuadro2{
+    background-color:cornflowerblue;
+    border: 2px solid black;
+    padding: 2px;
+    margin-top: 2px;
+    text-align: center;
+    margin: 13px 10px 10px;
+}
+.titulo
+{
+    position:relative;
+    border: 2px solid blue;
+    width: 600px;
+    height: 40px;
+    margin: 20px auto 10px;
+    text-align: center;
+    color: blueviolet;
+    
+}
+.titulo1{
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
+    text-decoration:line-through solid red;
+    background-color: aquamarine;
+    color:brown;
+    border-style:dotted groove dotted groove ;
+}
+.box1{
+    position: relative;
+    top: 40px;
+    left: 40px;
+    border: 2px solid green;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    z-index: 1;
+    
+}
+.box2{
+    position: relative;
+    border: 2px solid yellow;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    background-color: yellowgreen;
+    
+}
