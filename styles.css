@@ -47,6 +47,9 @@
 }
 .titulo2{
     text-align: center;
+    border: 2px solid red;
+    margin: auto;
+    border-style: dotted;
 
 }
 .box1{
