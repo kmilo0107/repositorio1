@@ -1,3 +1,7 @@
+body{
+    background: radial-gradient(rgb(133, 133, 235),
+rgb(243, 165, 165));
+}
 /* genero un borde y un fondo  */
 .cuadro{
     background: lightskyblue;
